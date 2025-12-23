@@ -20,5 +20,5 @@ class Solution:
 
 if __name__ == "__main__":
     obj = Solution()
-    ans = obj.palindromeChecker(121)
+    ans = obj.palindromeChecker(-121)
     print(ans)
