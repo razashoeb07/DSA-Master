@@ -22,6 +22,6 @@ def second_small_large(nums):
     return s_smallest,s_largest
 
 if __name__ == "__main__":
-    nums = [10,12,8,6,7,16]
+    nums = [2, 5, 1, 3, 0]
     ans = second_small_large(nums)
     print(ans)
